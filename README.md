@@ -1,9 +1,6 @@
 # Resources
 Collection of useful links and resources for visitors of the Pepperdine Makerspaces
 
-### If you have any inquiries, you can contact us at peppgenesislab@gmail.com
-
-
 # Extended Hours Survey
 https://forms.gle/HRGsx8XfM9UefBBJ9
 
@@ -23,3 +20,5 @@ https://www.printables.com/
 https://library.pepperdine.edu/visit/contact/spaces/gen-lab.htm
 
 https://infoguides.pepperdine.edu/genesislab
+
+### If you have any inquiries, you can contact us at peppgenesislab@gmail.com
